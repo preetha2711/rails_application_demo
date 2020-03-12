@@ -14,3 +14,9 @@ Bugs :
 
 Unique email ID needed every time you submit the form.
 HTML form should have a forced submit on each entry which is not the case right now. 
+
+
+
+References used : 
+
+This app was developed largely with the help of the following tutorial : https://launchschool.com/books/demystifying_rails/read/persisting_data_in_our_app#preparethedatabase
